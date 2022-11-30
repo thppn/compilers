@@ -1,4 +1,4 @@
 # compilers
 compiler projects 
-* ppp
-* minimalpp
+* ppp (Object oriented to C code using ANTLR)
+* minimalpp (Procedural - MIPS Assembly)
